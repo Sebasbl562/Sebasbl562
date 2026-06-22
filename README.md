@@ -16,16 +16,14 @@
 
 ## 👨‍💻 About me
 
-```dart
-final sebastian = Developer(
-  name:        "Sebastián Bohorquez",
-  university:  "UPC — Software Engineering",
-  location:    "Lima, Peru 🇵🇪",
-  focus:       ["Full Stack", "Mobile Dev", "Cybersecurity"],
-  currentWork: "Thesis: Vulnerability detection in mobile banking apps using ML + SAST + LLM-RAG",
-  experience:  ["Dental clinic network", "IT Support", "Freelance web"],
-);
-```
+👋 **Hi, I'm Sebastián Bohórquez**  
+I am a passionate developer and soon-to-be **Software Engineer** from UPC, based in **Lima, Peru 🇵🇪**. 
+
+I specialize in building scalable applications, with a strong commitment to secure coding practices and robust system architecture. I thrive on solving complex technical challenges, exploring new technologies, and turning innovative ideas into functional, user-centric software solutions. 
+
+*   **🎯 Focus:** Full Stack Development, Mobile Development, and Cybersecurity.
+*   **🚀 Current Work:** Actively taking on **Freelance** opportunities for all kinds of software projects, delivering high-quality, end-to-end digital solutions.
+*   **💡 Interests:** Building microservices, exploring cloud architectures, and applying proactive security standards to modern development.
 
 ---
 
@@ -36,6 +34,10 @@ final sebastian = Developer(
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Backend & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -43,11 +45,13 @@ final sebastian = Developer(
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Methodology & Design
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
@@ -61,64 +65,72 @@ final sebastian = Developer(
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sebasbl562/REPO-CLINICAS-MOBILE" target="_blank">
-        <div align="center">
+      <div align="center">
+        <a href="https://github.com/Sebasbl562/REPO-CLINICAS-MOBILE" target="_blank" style="text-decoration: none;">
           <h3>🦷 Dental Clinics Network — Mobile</h3>
-          <p>Mobile application built with <strong>Flutter</strong> for managing patients, appointments and medical staff across a dental clinic network. Deployed on <strong>Azure</strong>.</p>
-          <p>
-            <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
-          </p>
-          <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge"/>
-        </div>
-      </a>
+        </a>
+        <p>Mobile application built with <strong>Flutter</strong> for managing patients, appointments and medical staff across a dental clinic network. Deployed on <strong>Azure</strong>.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
+        </p>
+        <a href="https://github.com/Sebasbl562/REPO-CLINICAS-MOBILE" target="_blank">
+          <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge" alt="Click to view repo"/>
+        </a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sebasbl562/REPO-CLINICAS-WEB" target="_blank">
-        <div align="center">
+      <div align="center">
+        <a href="https://github.com/Sebasbl562/REPO-CLINICAS-WEB" target="_blank" style="text-decoration: none;">
           <h3>🌐 Dental Clinics Network — Web</h3>
-          <p>Web platform built with <strong>Angular</strong> and <strong>Spring Boot</strong> for administrative management of the dental clinic system. UX-first design approach.</p>
-          <p>
-            <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
-          </p>
-          <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge"/>
-        </div>
-      </a>
+        </a>
+        <p>Web platform built with <strong>Angular</strong> and <strong>Spring Boot</strong> for administrative management of the dental clinic system. UX-first design approach.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
+        </p>
+        <a href="https://github.com/Sebasbl562/REPO-CLINICAS-WEB" target="_blank">
+          <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge" alt="Click to view repo"/>
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sebasbl562/CorteTurino_LandingPage" target="_blank">
-        <div align="center">
+      <div align="center">
+        <a href="https://github.com/Sebasbl562/CorteTurino_LandingPage" target="_blank" style="text-decoration: none;">
           <h3>🍽️ Corte Taurino — Freelance Landing Page</h3>
-          <p>Landing page designed and deployed for a restaurant. Includes <strong>WhatsApp messaging integration</strong> and <strong>email contact form</strong>. Focused on improving digital visibility for the business.</p>
-          <p>
-            <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-            <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-          </p>
-          <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge"/>
-        </div>
-      </a>
+        </a>
+        <p>Landing page designed and deployed for a restaurant. Includes <strong>WhatsApp messaging integration</strong> and <strong>email contact form</strong>. Focused on improving digital visibility for the business.</p>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+          <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+        </p>
+        <a href="https://github.com/Sebasbl562/CorteTurino_LandingPage" target="_blank">
+          <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge" alt="Click to view repo"/>
+        </a>
+      </div>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Sebasbl562" target="_blank">
-        <div align="center">
+      <div align="center">
+        <a href="https://github.com/Sebasbl562" target="_blank" style="text-decoration: none;">
           <h3>🔍 VulnDetect — Thesis Project</h3>
-          <p>Tool for detecting security vulnerabilities in mobile banking apps combining <strong>Machine Learning</strong>, <strong>SAST</strong> and <strong>LLM-RAG</strong> architectures. Focused on the Peruvian fintech context.</p>
-          <p>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-            <img src="https://img.shields.io/badge/LLM--RAG-6C63FF?style=flat"/>
-            <img src="https://img.shields.io/badge/SAST-red?style=flat"/>
-          </p>
-          <img src="https://img.shields.io/badge/In%20progress--%F0%9F%94%8D-orange?style=for-the-badge"/>
-        </div>
-      </a>
+        </a>
+        <p>Tool for detecting security vulnerabilities in mobile banking apps combining <strong>Machine Learning</strong>, <strong>SAST</strong> and <strong>LLM-RAG</strong> architectures. Focused on the Peruvian fintech context.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+          <img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+          <img src="https://img.shields.io/badge/LLM--RAG-6C63FF?style=flat"/>
+          <img src="https://img.shields.io/badge/SAST-red?style=flat"/>
+        </p>
+        <a href="https://github.com/Sebasbl562" target="_blank">
+          <img src="https://img.shields.io/badge/In%20progress--%F0%9F%94%8D-orange?style=for-the-badge" alt="In progress"/>
+        </a>
+      </div>
     </td>
   </tr>
 </table>
