@@ -14,16 +14,32 @@
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 About Me
 
-👋 **Hi, I'm Sebastián Bohórquez**  
-I am a passionate developer and soon-to-be **Software Engineer** from UPC, based in **Lima, Peru 🇵🇪**. 
+👋 **Hi, I'm Sebastián Bohórquez**
 
-I specialize in building scalable applications, with a strong commitment to secure coding practices and robust system architecture. I thrive on solving complex technical challenges, exploring new technologies, and turning innovative ideas into functional, user-centric software solutions. 
+I'm a Software Engineering student at UPC and a passionate **Junior Full Stack Developer** based in **Lima, Peru 🇵🇪**.
 
-*   **🎯 Focus:** Full Stack Development, Mobile Development, and Cybersecurity.
-*   **🚀 Current Work:** Actively taking on **Freelance** opportunities for all kinds of software projects, delivering high-quality, end-to-end digital solutions.
-*   **💡 Interests:** Building microservices, exploring cloud architectures, and applying proactive security standards to modern development.
+Over the last **2 years**, I have gained hands-on experience developing **web and mobile applications**, participating in the complete software development lifecycle, from requirements analysis and system design to deployment and maintenance.
+
+My experience includes building scalable applications, designing RESTful APIs, working with relational and NoSQL databases, implementing cloud-based solutions, and applying secure coding practices. I enjoy solving technical challenges, learning new technologies, and transforming ideas into reliable and user-friendly software products.
+
+### 🎯 Focus
+- Full Stack Development
+- Mobile Development
+- Cybersecurity
+- Cloud Computing
+- Software Architecture Fundamentals
+
+### 🚀 Current Work
+Currently available for **Freelance projects**, helping businesses and individuals build high-quality digital solutions from concept to deployment.
+
+### 💡 Interests
+- Microservices Architecture
+- Cloud-Native Applications
+- DevOps & CI/CD Practices
+- Secure Software Development
+- Artificial Intelligence Applications
 
 ---
 
@@ -47,11 +63,12 @@ I specialize in building scalable applications, with a strong commitment to secu
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Cloud & DevOps
+### Cloud, DevOps & Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Methodology & Design
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
@@ -66,7 +83,7 @@ I specialize in building scalable applications, with a strong commitment to secu
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/Sebasbl562/REPO-CLINICAS-MOBILE" target="_blank" style="text-decoration: none;">
+        <a href="https://github.com/Dentify-Mobile-Copy" target="_blank" style="text-decoration: none;">
           <h3>🦷 Dental Clinics Network — Mobile</h3>
         </a>
         <p>Mobile application built with <strong>Flutter</strong> for managing patients, appointments and medical staff across a dental clinic network. Deployed on <strong>Azure</strong>.</p>
@@ -75,13 +92,13 @@ I specialize in building scalable applications, with a strong commitment to secu
           <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
           <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
         </p>
-        <a href="https://github.com/Dentify-Web" target="_blank">
+        <a href="https://github.com/Dentify-Mobile-Copy" target="_blank">
           <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge" alt="Click to view repo"/>
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
+      <div align ="center">
         <a href="https://github.com/Dentify-Web" target="_blank" style="text-decoration: none;">
           <h3>🌐 Dental Clinics Network — Web</h3>
         </a>
@@ -91,7 +108,7 @@ I specialize in building scalable applications, with a strong commitment to secu
           <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
           <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
         </p>
-        <a href="https://github.com/Sebasbl562/REPO-CLINICAS-WEB" target="_blank">
+        <a href="https://github.com/Dentify-Web" target="_blank">
           <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge" alt="Click to view repo"/>
         </a>
       </div>
