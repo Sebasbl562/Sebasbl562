@@ -75,7 +75,7 @@ I specialize in building scalable applications, with a strong commitment to secu
           <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
           <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
         </p>
-        <a href="https://github.com/Sebasbl562/REPO-CLINICAS-MOBILE" target="_blank">
+        <a href="https://github.com/Dentify-Web" target="_blank">
           <img src="https://img.shields.io/badge/Click%20to%20view%20repo-%E2%86%92-6C63FF?style=for-the-badge" alt="Click to view repo"/>
         </a>
       </div>
