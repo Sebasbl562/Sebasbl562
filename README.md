@@ -82,7 +82,7 @@ I specialize in building scalable applications, with a strong commitment to secu
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/Sebasbl562/REPO-CLINICAS-WEB" target="_blank" style="text-decoration: none;">
+        <a href="https://github.com/Dentify-Web" target="_blank" style="text-decoration: none;">
           <h3>🌐 Dental Clinics Network — Web</h3>
         </a>
         <p>Web platform built with <strong>Angular</strong> and <strong>Spring Boot</strong> for administrative management of the dental clinic system. UX-first design approach.</p>
