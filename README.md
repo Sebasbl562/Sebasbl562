@@ -20,7 +20,7 @@
 
 I'm a Software Engineering student at UPC and a passionate **Junior Full Stack Developer** based in **Lima, Peru 🇵🇪**.
 
-Over the last **2 years**, I have gained hands-on experience developing **web and mobile applications**, participating in the complete software development lifecycle, from requirements analysis and system design to deployment and maintenance.
+As a Software Engineering student, I've spent the last 2 years building hands-on experience developing web and mobile applications, participating in the complete software development lifecycle, from requirements analysis and system design to deployment and maintenance.
 
 My experience includes building scalable applications, designing RESTful APIs, working with relational and NoSQL databases, implementing cloud-based solutions, and applying secure coding practices. I enjoy solving technical challenges, learning new technologies, and transforming ideas into reliable and user-friendly software products.
 
